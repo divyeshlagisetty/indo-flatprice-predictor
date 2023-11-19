@@ -12,4 +12,4 @@ This project focuses on predicting flat prices in Indian cities, utilizing a dat
 
 ## Usage
 
-There are three notebooks in this project. Divyesh_Lagisetty_code0.ipynb file is used for preprocessing and producing data(with PCA and without PCA for dimensionality reduction on the data). Divyesh_Lagisetty_code1.ipynb and Divyesh_Lagisetty_code2.ipynb are used for employing different regression on these preprocessed data and results that were obtained by implementing these methods after hyperparameter tuning on test data were uploaded in .npy files.
+There are three notebooks in this project. The first notebook, Divyesh_Lagisetty_code0.ipynb, is used for preprocessing data and producing data without and with PCA for dimensionality reduction. The other two notebooks, Divyesh_Lagisetty_code1.ipynb and Divyesh_Lagisetty_code2.ipynb, are used for implementing different regression techniques on the preprocessed data. After hyperparameter tuning on test data, the results obtained by these methods were uploaded in .npy files.
